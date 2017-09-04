@@ -1,0 +1,8 @@
+INTEGRANTES:
+	Juan Acuña
+	Joel Garcete
+	Jorge Lezcano
+	Moises Avalos
+
+GITHUB LABORATORIO 2
+	https://github.com/moios/ingSoft2
